@@ -46,17 +46,8 @@ content:
         - name: HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站
           description: HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn
           url: https://hellowindows.cn/
-    - name: 界面灵感
+    - name: 电影网站
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+        - name: 茶杯狐 - 片荒剧荒就来茶杯狐
+          description: 最新片单请微信搜索关注“茶杯狐”公众号！
+          url: https://cupfox.love/
