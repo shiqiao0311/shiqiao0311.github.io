@@ -98,4 +98,29 @@ content:
           description: 新剧坊收集互联网上热播电视剧，好看电影，最新动漫、综艺等影视和其他类的百度网盘资源，为大家提供一个百度云网盘的免费下载平台，提供各类影视百度网盘资源下载。
           url: https://www.xinjuc.com/
 
-          
+    - name: 资源采集
+      sites:
+          - name: 非凡资源网
+          description: 非凡资源网-www.ffzy.tv-提供在线播放， 在线电影资源网站。
+          url: http://www.ffzy.tv/
+          - name: hdzyk,高清资源库,优质资源库_专注于为站长们提供各种高清影视资源免费采集
+          description: hdzyk,高清资源库,优质资源库
+          url: https://www.hdzyk.com/
+          - name: 天空资源站
+          description: 
+          url: https://www.tkzy1.com/
+          - name: 闪电资源网
+          description: 提供最新最快的视频分享数据
+          url: https://www.shandianzy.com/
+          - name: 无尽资源网
+          description: 
+          url: https://wujinzy.com/
+          - name: 飞速资源
+          description: 飞速资源
+          url: https://www.feisuzy.com/
+          - name: 淘片资源网
+          description: 
+          url: https://www.taopianzy.com/index.html
+          - name: 云解析资源网 - 资源采集帮助中心
+          description: 
+          url: https://www.yparse.com/help
