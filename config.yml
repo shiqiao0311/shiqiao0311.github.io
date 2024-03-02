@@ -70,6 +70,18 @@ content:
           - name: 蓝光影院-2022最新电视剧-最新电影-影视大全-在线观看
           description: 蓝光影院为您提供2022最新电视剧、好看的电视剧、最新电影、影视大全，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！
           url: https://www.lgyy.fun/
+          - name: 红标影院_哒哒哒电影免费观看在线高清视频
+          description: 红标影院以好看的电影及热门电影大全作为基础,红标影院实时刷新最新电影排行榜,最新电影更新速度最快,哒哒哒电影免费观看在线高清视频引领不用下载播放器的时代！
+          url: https://www.cncydw.com/
+          - name: 七味 - 七味网
+          description: 七味 - 观影小站
+          url: https://www.mp4do.com/
+          - name: 豌豆PRO
+          description: 
+          url: https://wandou.la/
+          - name: 两个BT &#8211; BT下载与分享
+          description: 两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。
+          url: https://www.bttwo.net/
 
     - name: 资源下载
       sites:
