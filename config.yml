@@ -82,7 +82,6 @@ content:
           - name: 两个BT &#8211; BT下载与分享
           description: 两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。
           url: https://www.bttwo.net/
-
     - name: 资源下载
       sites:
           - name: Grab4K - 专注4K蓝光原盘电影资源下载
@@ -97,7 +96,6 @@ content:
           - name: 新剧坊 - 一个网盘资源分享小站
           description: 新剧坊收集互联网上热播电视剧，好看电影，最新动漫、综艺等影视和其他类的百度网盘资源，为大家提供一个百度云网盘的免费下载平台，提供各类影视百度网盘资源下载。
           url: https://www.xinjuc.com/
-
     - name: 资源采集
       sites:
           - name: 非凡资源网
