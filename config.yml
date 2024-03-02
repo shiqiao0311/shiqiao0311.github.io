@@ -61,8 +61,8 @@ content:
         - name: Nike影视网
           description: Nike影视网(www.ajeee.com)提供最新最全面的热门电影,热门电视剧大全,热门综艺,动漫影院及午夜恐怖片,动作片,喜剧片等视频在线观看（视频无广告弹窗）
           url: https://ajeee.com/
-        - name: 6080-精彩视频在线看
-          description: 6080
+        - name: 6080
+          description: 6080精彩视频在线看
           url: https://www.6080wu.com/
         - name: 蓝光影院
           description: 蓝光影院为您提供2022最新电视剧、好看的电视剧、最新电影、影视大全，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！
@@ -76,7 +76,7 @@ content:
         - name: 豌豆PRO
           description: 
           url: https://wandou.la/
-        - name: 两个BT &#8211; BT下载与分享
+        - name: 两个BT
           description: 两个BT免费为网友提交BT种子下载，免费电影资源下载，以及各种高清电影在线观看,最全的最新电视剧，最近上映热门电影下载。韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、动漫番剧。
           url: https://www.bttwo.net/
         - name: 三米影视
@@ -104,7 +104,7 @@ content:
         - name: 非凡资源网
           description: 非凡资源网-www.ffzy.tv-提供在线播放， 在线电影资源网站。
           url: http://www.ffzy.tv/
-        - name: hdzyk,高清资源库,优质资源库_专注于为站长们提供各种高清影视资源免费采集
+        - name: hdzyk
           description: hdzyk,高清资源库,优质资源库
           url: https://www.hdzyk.com/
         - name: 天空资源站
