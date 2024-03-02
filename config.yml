@@ -14,7 +14,7 @@ url: https://shiqiao0311.github.io/shiqiao0311.github.io/
 github: "https://github.com/shiqiao0311"
 
 # footer message
-footer: © 2023-2024 @shiqiao0311
+footer: © 2023-2024 007导航
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -40,6 +40,9 @@ content:
   categories:
     - name: 在线观看
       sites:
+        - name: 6080
+          description: 6080精彩视频在线看
+          url: https://www.6080wu.com/
         - name: 茶杯狐
           description: 最新片单请微信搜索关注“茶杯狐”公众号！
           url: https://cupfox.love/
@@ -61,9 +64,6 @@ content:
         - name: Nike影视网
           description: Nike影视网(www.ajeee.com)提供最新最全面的热门电影,热门电视剧大全,热门综艺,动漫影院及午夜恐怖片,动作片,喜剧片等视频在线观看（视频无广告弹窗）
           url: https://ajeee.com/
-        - name: 6080
-          description: 6080精彩视频在线看
-          url: https://www.6080wu.com/
         - name: 蓝光影院
           description: 蓝光影院为您提供2022最新电视剧、好看的电视剧、最新电影、影视大全，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！
           url: https://www.lgyy.fun/
