@@ -38,16 +38,52 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
-      sites:
-        - name: 东坡下载-免费软件下载网站-打造最安全最新的免费软件下载站
-          description: 东坡下载是一个专业的无毒的免费的软件资源网站,坚持为用户提供高质量,有效,安全的下载服务.让用户放心的下载您需要的喜欢的软件,特别提供手机软件,手机游戏下载.
-          url: http://www.uzzf.com/
-        - name: HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站
-          description: HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn
-          url: https://hellowindows.cn/
-    - name: 电影网站
+    - name: 在线观看
       sites:
         - name: 茶杯狐 - 片荒剧荒就来茶杯狐
           description: 最新片单请微信搜索关注“茶杯狐”公众号！
           url: https://cupfox.love/
+        - name: 
+          description: 
+          url: https://www.hdmoli.com/
+          - name: LIBVIO-官网
+          description: 
+          url: https://www.libvio.me/
+          - name: 追剧兔
+          description: 追剧兔-提供最新最快的视频分享数据
+          url: https://www.zjtu.cc/
+          - name: 厂长资源 &#8211; 厂长影视官网 | 超清视频站
+          description: 厂长资源(CZZY)为您提供海量1080p经典影视免费观看！
+          url: https://www.czzy55.com/
+          - name: 兄弟影视 - 免费vip影视大全
+          description: 兄弟影视(brovod.com)是一家免费全球影视资源在线观看的平台,拥有海量、优质、超清蓝光电影和全球的电视剧,高画质在线动漫。专业全网收集最新,最好看的电视剧、高清电影、经典动漫、综艺娱乐节目，兄弟影视以丰富的内容、极致的观看体验、便捷的高速播放、24小时多平台无缝应用体验以及快捷!
+          url: https://www.brovod.com/
+          - name: 秋霞影视-2022热播电影电视剧[高清不卡]免费看-秋霞电影网 _ 秋霞影视
+          description: 【秋霞影视】www.qiuxia678.com官方提供最新热播电视剧全集未删减【超前点播】，最新热映电影、海量vip高清电影【无广告不卡顿】，好看搞笑的综艺节大全、经典动漫全集服务，并提供最新好看的韩剧、日剧、美剧等海外电视剧。
+          url: https://www.kkw361.com/
+          - name: Nike影视网-2022最新电影-经典港台电影大全
+          description: Nike影视网(www.ajeee.com)提供最新最全面的热门电影,热门电视剧大全,热门综艺,动漫影院及午夜恐怖片,动作片,喜剧片等视频在线观看（视频无广告弹窗）
+          url: https://ajeee.com/
+          - name: 6080-精彩视频在线看
+          description: 6080
+          url: https://www.6080wu.com/
+          - name: 蓝光影院-2022最新电视剧-最新电影-影视大全-在线观看
+          description: 蓝光影院为您提供2022最新电视剧、好看的电视剧、最新电影、影视大全，蓝光视频免费在线观看服务，无广告不卡，每天第一时间更新！
+          url: https://www.lgyy.fun/
+
+    - name: 资源下载
+      sites:
+          - name: Grab4K - 专注4K蓝光原盘电影资源下载
+          description: Grab4K专注电影、电视剧、动漫、演唱会等4K蓝光原盘资源下载，每日更新。
+          url: https://www.grab4k.com/
+          - name: 电影天堂
+          description: 最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！
+          url: https://www.dy2018.com/
+          - name: 皮皮虾资源 - 愿所有电影都能与你不期而遇
+          description: 
+          url: https://ppxzy.net/
+          - name: 新剧坊 - 一个网盘资源分享小站
+          description: 新剧坊收集互联网上热播电视剧，好看电影，最新动漫、综艺等影视和其他类的百度网盘资源，为大家提供一个百度云网盘的免费下载平台，提供各类影视百度网盘资源下载。
+          url: https://www.xinjuc.com/
+
+          
