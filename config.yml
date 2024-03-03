@@ -111,7 +111,9 @@ content:
         - name: 中国高清网
           description: 中国高清网是每天关注提供720p高清、1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载网站，是下载了解高清电影的天堂！
           url: https://gaoqing.la/
-
+        - name: MINI4K迷客电影
+          description: mini4k迷客电影，每日更新最新电影资源，最专业电影推荐，2160P、4K等超高清分辨率电影迅雷下载、百度网盘下载，提供bt种子和磁力链接下载资源。
+          url: https://www.mini4k.com/
     - name: 资源采集
       sites:
         - name: 非凡资源网
