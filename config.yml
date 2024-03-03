@@ -40,19 +40,42 @@ content:
   categories:
     - name: 在线观看
       sites:
-        - name: 6080
-          description: 6080精彩视频在线看
-          url: https://www.6080wu.com/
         - name: 555电影
           description: 最新电影、电视剧、动漫、综艺、纪录片、预告片，实时聚合全网优质影视资源，高清1080P 4K在线观看、下载、磁力。
           url: https://www.555dyy.com/
-
-        - name: 茶杯狐
-          description: 最新片单请微信搜索关注“茶杯狐”公众号！
-          url: https://cupfox.love/
+        - name: 雪糕TV
+          description:  雪糕TV初恋般清爽甜蜜免费高清电影电视剧综艺极速在线观看！
+          url: https://www.xgitv.com/
+        - name: 飘花播播
+          description: 飘花播播集合飘花飘雪影院分享热门电影、电视剧、综艺、动漫、飘雪网国产、日本、韩国在线观看免费观看在线观看！
+          url: https://www.7itv.com/
         - name: LIBVIO
           description: 
           url: https://www.libvio.me/
+        - name: 6080
+          description: 6080精彩视频在线看
+          url: https://www.6080wu.com/
+        - name: 首播站
+          description: 首播站提供最新最快的电影和电视剧在线免费观看！
+          url: https://shoubozhan.com/
+        - name: 凯奇影院
+          description: 凯奇影院-是全球华人在线视频媒体平台,即点即播,无广告无VIP!免费提供2023最新高清的电影,电视剧,综艺,动漫,台劇,日劇,泰劇等.提供最新影视资讯中文网,最新热播电影在线免费观看,给您免费的试听享受
+          url: https://fsnet123.com/
+        - name: COKEMV
+          description: COKEMV影视(cokemv.fun)是一個能够让你可以轻松观看更多十分热门的影视剧，更多精彩的影视剧资源免费的为你进行播放，无广告轻松的进行看剧
+          url: https://www.cokemv.fun/
+        - name: 蛋蛋赞影院
+          description: 蛋蛋赞影院全球唯一不用安装播放器的在线电影网,每天第一时间更新
+          url: https://dandanzan.net/
+        - name: 看片狂人
+          description: 看片狂人(www.kpkuang.fun)是一个为影迷剧迷朋友们建立的可免费在线观看,免费超前点播,下载高清视频资源的网站,每日收集全网最新的电影,电视剧,动漫,综艺,日剧,韩剧,美剧等高清资源供网友免费观看和下载。
+          url: https://one.kpkuang.vip/
+        - name: 高分电影网
+          description: 高分电影高分影院最新免费在线观看电影手机看片
+          url: https://www.gaofen3.com/
+        - name: 97影院
+          description: 97影院是可以免费观看最新电影和同步热播电视剧的极速影院，同时还提供高清电影下载，最新最全的美剧每天第一时间更新，97影院是您观看在线电影的最佳选择！
+          url: https://www.97so.cc/
         - name: 追剧兔
           description: 追剧兔-提供最新最快的视频分享数据
           url: https://www.zjtu.cc/
