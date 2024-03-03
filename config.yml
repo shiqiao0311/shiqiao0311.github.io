@@ -116,9 +116,33 @@ content:
           url: https://www.mini4k.com/
     - name: 资源采集
       sites:
+        - name: 量子资源网
+          description: 量子资源网-www.lzizy.com-提供在线播放，下载资源采集，全网第一。
+          url: http://lzizy.net/
         - name: 非凡资源网
           description: 非凡资源网-www.ffzy.tv-提供在线播放， 在线电影资源网站。
           url: http://www.ffzy.tv/
+        - name: 暴风资源
+          description: 提供最新最快的视频分享数据
+          url: http://bfzy.tv/
+        - name: 新浪资源
+          description: 新浪资源
+          url: https://xinlangzy.com/
+        - name: 虎牙资源采集网
+          description: 提供最新最快的视频分享数据
+          url: http://huyazy.net/
+        - name: 金鹰资源采集网
+          description: 提供最新最快的视频分享数据
+          url: https://jinyingzy.net/
+        - name: 光速资源站
+          description: 
+          url: https://www.guangsuzy.com/
+        - name: 速播资源
+          description: 速播资源采集站 电影 电视剧 动漫 影视资源一网打尽
+          url: https://www.subozy.com/
+        - name: 红牛资源
+          description: 
+          url: https://hongniuzy.net/
         - name: hdzyk
           description: hdzyk,高清资源库,优质资源库
           url: https://www.hdzyk.com/
