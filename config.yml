@@ -43,6 +43,10 @@ content:
         - name: 6080
           description: 6080精彩视频在线看
           url: https://www.6080wu.com/
+        - name: 555电影
+          description: 最新电影、电视剧、动漫、综艺、纪录片、预告片，实时聚合全网优质影视资源，高清1080P 4K在线观看、下载、磁力。
+          url: https://www.555dyy.com/
+
         - name: 茶杯狐
           description: 最新片单请微信搜索关注“茶杯狐”公众号！
           url: https://cupfox.love/
