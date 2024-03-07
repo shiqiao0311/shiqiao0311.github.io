@@ -209,7 +209,9 @@ content:
         - name: 秘塔AI搜索
           description: 
           url: https://metaso.cn/
-
+        - name: 写作猫
+          description: 
+          url: https://xiezuocat.com/
     - name: 配音
       sites:
         - name: TTSMaker在线免费文字转语音
