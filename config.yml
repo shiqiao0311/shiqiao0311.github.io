@@ -151,7 +151,6 @@ content:
         - name: 海蓝影院
           description: 海蓝影院提供最全的最新电影大片，最热电视剧，韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、综艺、动漫的在线观看，无需下载任何播放器即可在线免费观看，每天第一时间更新，欢迎影迷到爱豆影视来看最新好看的高清免费电视剧。
           url: https://www.hailan.tv/
-
     - name: 下载
       sites:
         - name: Grab4K
@@ -175,6 +174,31 @@ content:
         - name: MINI4K迷客电影
           description: mini4k迷客电影，每日更新最新电影资源，最专业电影推荐，2160P、4K等超高清分辨率电影迅雷下载、百度网盘下载，提供bt种子和磁力链接下载资源。
           url: https://www.mini4k.com/
+        - name: 蜂鸟影院
+          description: 蜂鸟影院(www.juchecheng.com)实时聚合热门电影、电视剧、综艺、动漫等优质影视资源免费在线观看,手机追剧看片一个都不少
+          url: https://www.juchecheng.com/
+    - name: 游戏
+      sites:
+        - name: Wavse
+          description: Wavse,单机游戏下载网站,提供最新,热门的单机游戏下载,无需网盘即可满速下载,每天更新游戏资源。
+          url: https://wavse.com/
+        - name: FreeGamesDL
+          description: Download New Action, FPS Shooter, Adult, Adventure, RPG, Simulation, Racing, VN, Sports, Strategy Cracked &amp; Free PC Steam Games + Updates.
+          url: https://www.freegamesdl.net/
+        - name: switch520
+          description: switch520全球游戏网可以白嫖switch游戏下载，switch520全球游戏网可以提供ps4游戏下载，switch破解游戏下载，ps4破解游戏下载，还可以白嫖ds游戏下载，psv游戏下载，xbox游戏下载，ps4游戏下载，还有全球热门steam破解游戏，pc破解游戏下载，可以让您享受最全最热门的游戏下载服务。
+          url: https://www.520switch.com
+    - name: 网盘
+      sites:
+        - name: 网盘搜索,就上盘搜搜
+          description: 盘搜搜官网支持百度云搜索、115网盘、360云盘、华为网盘、新浪微盘等搜索服务，是您工作、学习、娱乐的网盘搜索神器。
+          url: https://pansoso.com/
+        - name: SOSO云盘搜索导航
+          description: SOSO云盘导航，为大家免费提供最新的网盘搜索网站导航平台，支持百度网盘、迅雷网盘、阿里云盘，蓝奏云盘、迅雷网盘，天翼网盘、腾讯微云、UC网盘，飞猫云盘、移动和彩云网盘、等十大网盘..
+          url: https://www.sosoyunpan.com/
+        - name: 网盘搜索
+          description: 盘58网盘搜索引擎支持百度网盘搜索、阿里云网盘搜索、夸克网盘搜索等云搜索服务，实时收录最新各类网盘资源，为您提供专业的网盘搜索服务。
+          url: http://www.pan58.com/
     - name: 采集
       sites:
         - name: 量子资源网
@@ -225,14 +249,3 @@ content:
         - name: 云解析资源网
           description: 
           url: https://www.yparse.com/help
-    - name: 游戏
-      sites:
-        - name: Wavse
-          description: Wavse,单机游戏下载网站,提供最新,热门的单机游戏下载,无需网盘即可满速下载,每天更新游戏资源。
-          url: https://wavse.com/
-        - name: FreeGamesDL
-          description: Download New Action, FPS Shooter, Adult, Adventure, RPG, Simulation, Racing, VN, Sports, Strategy Cracked &amp; Free PC Steam Games + Updates.
-          url: https://www.freegamesdl.net/
-        - name: switch520
-          description: switch520全球游戏网可以白嫖switch游戏下载，switch520全球游戏网可以提供ps4游戏下载，switch破解游戏下载，ps4破解游戏下载，还可以白嫖ds游戏下载，psv游戏下载，xbox游戏下载，ps4游戏下载，还有全球热门steam破解游戏，pc破解游戏下载，可以让您享受最全最热门的游戏下载服务。
-          url: https://www.520switch.com
