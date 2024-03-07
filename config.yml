@@ -204,6 +204,13 @@ content:
         - name: 软仓丨RuanCang.Net
           description: 软仓是一个集合专业软件的导航网站，免费下载供学习使用，本站承诺无毒无广告，纯公益项目，不以此盈利
           url: https://ruancang.net/#/
+    - name: 配音
+      sites:
+        - name: TTSMaker在线免费文字转语音
+          description: TTSMaker（马克配音）是一款免费的文本转语音工具，提供语音合成服务，支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等50多种语言，以及超过300种语音风格。您可以用它制作视频配音，也可用于有声书朗读，或下载音频文件用于商业用途（完全免费）。作为一款优秀的AI配音工具，TTSMaker可以轻松地将文本转换为语音。
+          url: https://ttsmaker.cn/
+
+          
     - name: 采集
       sites:
         - name: 量子资源网
