@@ -204,6 +204,12 @@ content:
         - name: 软仓丨RuanCang.Net
           description: 软仓是一个集合专业软件的导航网站，免费下载供学习使用，本站承诺无毒无广告，纯公益项目，不以此盈利
           url: https://ruancang.net/#/
+    - name: AI
+      sites:
+        - name: 秘塔AI搜索
+          description: 
+          url: https://metaso.cn/
+
     - name: 配音
       sites:
         - name: TTSMaker在线免费文字转语音
