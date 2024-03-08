@@ -151,6 +151,11 @@ content:
         - name: 海蓝影院
           description: 海蓝影院提供最全的最新电影大片，最热电视剧，韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、综艺、动漫的在线观看，无需下载任何播放器即可在线免费观看，每天第一时间更新，欢迎影迷到爱豆影视来看最新好看的高清免费电视剧。
           url: https://www.hailan.tv/
+    - name: 电视
+      sites:
+        - name: 饭太硬
+          description: Tvbox资源导航
+          url: https://www.饭太硬.top
     - name: 下载
       sites:
         - name: Grab4K
