@@ -165,6 +165,9 @@ content:
          - name: bililive-go
           description: Bililive-go是一个支持多种直播平台的直播录制工具
           url:  https://github.com/hr3lxphr6j/bililive-go
+         - name: liveRecordAuto
+          description: 直播复盘录制工具
+          url:  https://github.com/OriX6/liveRecordAuto
         - name: GitHub520
           description: 解决访问时图裂、加载慢的问题。
           url: https://github.com/521xueweihan/GitHub520
