@@ -155,19 +155,19 @@ content:
       sites:
          - name: 我的电视（MY TV）
           description: 电视直播软件，安装即可使用
-          url:  https://github.com/lizongying/my-tv
+          url: https://github.com/lizongying/my-tv
          - name: Buzz
           description: Ai视频语音转文字
-          url:  https://github.com/chidiwilliams/buzz
+          url: https://github.com/chidiwilliams/buzz
          - name: WeChatMsg
           description: 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-          url:  https://github.com/LC044/WeChatMsg
+          url: https://github.com/LC044/WeChatMsg
          - name: bililive-go
           description: Bililive-go是一个支持多种直播平台的直播录制工具
-          url:  https://github.com/hr3lxphr6j/bililive-go
+          url: https://github.com/hr3lxphr6j/bililive-go
          - name: liveRecordAuto
           description: 直播复盘录制工具
-          url:  https://github.com/OriX6/liveRecordAuto
+          url: https://github.com/OriX6/liveRecordAuto
         - name: GitHub520
           description: 解决访问时图裂、加载慢的问题。
           url: https://github.com/521xueweihan/GitHub520
