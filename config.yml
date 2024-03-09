@@ -231,7 +231,9 @@ content:
         - name: 搞机助手
           description: 发现更多实用软件，尽在lsdy.top
           url: https://lsdy.top/
- 
+        - name: 小米ROM
+          description: XiaomiROM.com 是一个站点，用于收集小米手机、小米平板等小米机型其国行版、全球版、欧洲版（欧版）、印度版、印度尼西亚版、俄罗斯版（俄版）、土耳其版、台湾版（台版）、日本版（日版）的小米ROM。刷机包下载链接来自小米ROM官网地址，您可以全速下载到安全可靠的固件。固件均为小米官方ROM，当前没有第三方 ROM。
+          url: https://xiaomirom.com/
     - name: 采集
       sites:
         - name: 量子资源网
