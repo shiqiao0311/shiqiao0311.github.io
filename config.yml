@@ -217,9 +217,16 @@ content:
         - name: FreeGamesDL
           description: Download New Action, FPS Shooter, Adult, Adventure, RPG, Simulation, Racing, VN, Sports, Strategy Cracked &amp; Free PC Steam Games + Updates.
           url: https://www.freegamesdl.net/
+        - name: Switch520
+          description: switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-xxxxx520
+          url: https://www.gamer520.com/
         - name: switch520
           description: switch520全球游戏网可以白嫖switch游戏下载，switch520全球游戏网可以提供ps4游戏下载，switch破解游戏下载，ps4破解游戏下载，还可以白嫖ds游戏下载，psv游戏下载，xbox游戏下载，ps4游戏下载，还有全球热门steam破解游戏，pc破解游戏下载，可以让您享受最全最热门的游戏下载服务。
           url: https://www.520switch.com
+        - name: GBT乐赏游戏空间
+          description: 
+          url: http://gbtgame.ysepan.com/
+
     - name: 网盘
       sites:
         - name: 网盘搜索,就上盘搜搜
