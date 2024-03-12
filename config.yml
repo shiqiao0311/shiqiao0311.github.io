@@ -151,6 +151,7 @@ content:
         - name: 海蓝影院
           description: 海蓝影院提供最全的最新电影大片，最热电视剧，韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、综艺、动漫的在线观看，无需下载任何播放器即可在线免费观看，每天第一时间更新，欢迎影迷到爱豆影视来看最新好看的高清免费电视剧。
           url: https://www.hailan.tv/
+          
     - name: GitHub
       sites:
         - name: 我的电视（MY TV）
@@ -174,6 +175,31 @@ content:
         - name: SwitchHosts
           description: SwitchHosts 是一个管理 hosts 文件的应用
           url: https://github.com/oldj/SwitchHosts
+          
+    - name: 装机
+      sites:
+        - name: 专注于Win7
+          description: 专注于Win7系列作品是吻妻出品(newxitong.com),一直专注于win7,致力于分享最新最好用的Windows7纯净旗舰版系统下载,而吻妻是一位有态度,有原则的不随波逐流的系统爱好者。
+          url: https://www.newxitong.com/
+        - name: 专注于Win10
+          description: 也许是迄今为止最好的Windows——Windows10,现已推出吻妻优化作品,一如既往的品质更稳定更好用的win10纯净版系统欢迎你下载体验。
+          url: https://iwin10.net/
+        - name: HelloWindows.cn
+          description: HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn
+          url: https://hellowindows.cn/
+        - name: 图吧工具箱
+          description: 
+          url: https://www.tbtool.cn/
+        - name: 山己几子木
+          description: 本站提供 Windows 11、Windows 10、Windows 8.1、Windows 8、Windows 7、Windows XP 的 MSDN 镜像资源展示。
+          url: https://msdn.sjjzm.com/
+        - name: 系统库
+          description: 系统库，免费为你提供我告诉你msdn原版纯净系统，原版win11，win10，win8/8.1，win7系统下载，原版office全系列下载与安装等服务
+          url: https://www.xitongku.com/
+        - name: 我告诉你
+          description: 
+          url: https://msdn.itellyou.cn/
+
     - name: 接口
       sites:
         - name: 饭太硬
@@ -193,7 +219,6 @@ content:
         - name: 中国蓝光网
           description: 高清蓝光网专注于蓝光高清电影，每日为大家提供最新的1080P高清电影和蓝光原盘资源下载！这里是高清影视发烧友的电影天堂。
           url: https://www.languangdy.com/
-
         - name: 新剧坊
           description: 新剧坊收集互联网上热播电视剧，好看电影，最新动漫、综艺等影视和其他类的百度网盘资源，为大家提供一个百度云网盘的免费下载平台，提供各类影视百度网盘资源下载。
           url: https://www.xinjuc.com/
@@ -238,11 +263,13 @@ content:
         - name: 网盘搜索
           description: 盘58网盘搜索引擎支持百度网盘搜索、阿里云网盘搜索、夸克网盘搜索等云搜索服务，实时收录最新各类网盘资源，为您提供专业的网盘搜索服务。
           url: http://www.pan58.com/
+          
     - name: 软件
       sites:
         - name: 软仓丨RuanCang.Net
           description: 软仓是一个集合专业软件的导航网站，免费下载供学习使用，本站承诺无毒无广告，纯公益项目，不以此盈利
           url: https://ruancang.net/#/
+          
     - name: AI
       sites:
         - name: 秘塔AI搜索
@@ -251,11 +278,13 @@ content:
         - name: 写作猫
           description: 
           url: https://xiezuocat.com/
+          
     - name: 配音
       sites:
         - name: TTSMaker在线免费文字转语音
           description: TTSMaker（马克配音）是一款免费的文本转语音工具，提供语音合成服务，支持多种语言，包括中文、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等50多种语言，以及超过300种语音风格。您可以用它制作视频配音，也可用于有声书朗读，或下载音频文件用于商业用途（完全免费）。作为一款优秀的AI配音工具，TTSMaker可以轻松地将文本转换为语音。
           url: https://ttsmaker.cn/
+          
     - name: 搞机
       sites:
         - name: 搞机助手
@@ -264,6 +293,10 @@ content:
         - name: 小米ROM
           description: XiaomiROM.com 是一个站点，用于收集小米手机、小米平板等小米机型其国行版、全球版、欧洲版（欧版）、印度版、印度尼西亚版、俄罗斯版（俄版）、土耳其版、台湾版（台版）、日本版（日版）的小米ROM。刷机包下载链接来自小米ROM官网地址，您可以全速下载到安全可靠的固件。固件均为小米官方ROM，当前没有第三方 ROM。
           url: https://xiaomirom.com/
+        - name: MIUI工具箱
+          description: 
+          url: https://xisentoolbox.cc/
+          
     - name: 采集
       sites:
         - name: 量子资源网
