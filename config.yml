@@ -199,6 +199,15 @@ content:
         - name: 我告诉你
           description: 
           url: https://msdn.itellyou.cn/
+        - name: 驱动总裁
+          description: 驱动总裁是由系统总裁自主开发的一款硬件驱动智能安装软件，集在线和离线双模式的综合驱动工具，在线拥有庞大的驱动库，离线拥有体积适中的驱动包，即是系统封装人士的专业首选，亦是普通用户的不二之选！
+          url: https://www.sysceo.com/dc.html
+        - name: 360驱动大师
+          description: 360驱动大师是一款专业解决驱动安装更新软件，百万级的驱动库支持，驱动安装一键化，无需手动操作，首创的驱动体检技术，让你更直观了解您电脑的状态，强大的云安全中心让保证您所下载的驱动不带病毒，快一点，再快一点，体验一键化安装和升级的乐趣，驱动大师陪你一路行。
+          url: https://dm.weishi.360.cn/home.html?from=homepage
+        - name: Geek
+          description: 一个强大的卸载工具，没有强制用户的更新，geek卸载软件一直是完全免费的，也可以付费支持作者，正常安装和卸载的时候，都可以用geek找到相关的卸载方法，除非这个软件或者游戏是没有卸载的，需要手动完全删除，这种情况geek是真的完全没有办法了。
+          url: https://geekuninstaller.com/
 
     - name: 接口
       sites:
