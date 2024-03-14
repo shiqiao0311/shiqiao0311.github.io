@@ -151,7 +151,16 @@ content:
         - name: 海蓝影院
           description: 海蓝影院提供最全的最新电影大片，最热电视剧，韩国电视剧、香港TVB电视剧、韩剧、日剧、美剧、综艺、动漫的在线观看，无需下载任何播放器即可在线免费观看，每天第一时间更新，欢迎影迷到爱豆影视来看最新好看的高清免费电视剧。
           url: https://www.hailan.tv/
-          
+
+    - name: 解析
+      sites:
+        - name: 哔哩哔哩(bilibili)视频解析下载
+          description: 哔哩哔哩高清视频解析下载工具是一个免费的B站视频在线解析提取工具,支持提取B站APP和bilibili网站上的任何视频,提取出来的视频无水印.我们可以借助此下载器方便地将视频保存到手机相册或者电脑硬盘.
+          url: https://bili.iiilab.com/
+        - name: B站视频下载工具 | 极简纯净
+          description: b站视频下载工具，免费极简方便
+          url: https://zhouql.vip/bilibili/
+
     - name: GitHub
       sites:
         - name: 我的电视（MY TV）
