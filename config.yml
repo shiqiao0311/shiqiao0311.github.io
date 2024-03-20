@@ -189,7 +189,7 @@ content:
       sites:
         - name: 联想知识库
           description: 
-          url: https://iknow.lenovo.com.cn/tool/
+          url: https://iknow.lenovo.com.cn/tool/lists?
         - name: 专注于Win7
           description: 专注于Win7系列作品是吻妻出品(newxitong.com),一直专注于win7,致力于分享最新最好用的Windows7纯净旗舰版系统下载,而吻妻是一位有态度,有原则的不随波逐流的系统爱好者。
           url: https://www.newxitong.com/
